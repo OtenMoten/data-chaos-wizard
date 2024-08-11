@@ -1,4 +1,4 @@
-# 🧙‍♂️ Data Chaos Wizard: Your File System Sorcerer 📂✨
+# 🧙‍♂️ Data Chaos Wizard: Your File System Sorcerer
 
 Welcome to the Intelligent Data Organizer, where chaotic file systems transform into organized digital realms faster than you can say "where did I put that file?"
 
@@ -36,7 +36,7 @@ To set up your own Intelligent Data Organizer sanctuary:
 
 1. Clone this arcane repository:
    ```
-   git clone https://github.com/otenmoten/intelligent-data-organizer.git
+   git clone https://github.com/OtenMoten/data-chaos-wizard.git
    ```
 2. Enter the sacred circle:
    ```

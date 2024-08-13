@@ -4,7 +4,7 @@ Welcome to the Intelligent Data Organizer, where chaotic file systems transform 
 
 ## 🌟 Project Overview
 
-This Python application, lovingly crafted by data wizards, is a sophisticated, open-source toolkit designed to scan directories, categorize files, analyze relationships, and create organization plans that would make even the most meticulous librarian nod in approval. It's perfect for those looking to tame the wild beast that is their digital clutter and emerge with a zen-like file system.
+This Python application is a sophisticated, open-source toolkit designed to scan directories, categorize files, analyze relationships, and create organization plans that would make even the most meticulous librarian nod in approval. It's perfect for those looking to tame the wild beast that is their digital clutter and emerge with a zen-like file system.
 
 This project brings together a fellowship of powerful components:
 
